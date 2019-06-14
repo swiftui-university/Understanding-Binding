@@ -7,8 +7,7 @@ of the parent View ✨*
 
 📖 **Article: [Understanding Binding](https://medium.com/@martinlasek/swiftui-understanding-binding-8e20269a76bc)**
 <br />
-🎥 **Video:** Coming Soon
-
+🎥 **Video: [Understanding Binding](https://youtu.be/ZrTHzu3Hkio)**
 ![Image of Understanding Binding](screenshot.gif)
 
 
